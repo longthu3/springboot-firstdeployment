@@ -11,7 +11,7 @@ public class DemoDeployAzureApplication {
 
 	@GetMapping
 	public String getDeployMessage() {
-		return "Deployed to Azure";
+		return "Dit con me thang Trung ngu";
 	}
 
 	public static void main(String[] args) {
